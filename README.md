@@ -1,2 +1,2 @@
 # rtistry
-Generative Art with R
+Generative cool visuals with R
